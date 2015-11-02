@@ -1,0 +1,17 @@
+#intellij config
+.idea
+.DS_Store
+
+#npm dependency
+node_modules
+
+#bower dependency
+publicb
+
+#jscoverage tmp file
+lib-cov
+
+#npm log
+npm-debug.log
+
+build
