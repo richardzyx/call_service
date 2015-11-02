@@ -15,6 +15,7 @@ depends on the resolved Promise from TwiML_server so it makes sense to do everyt
 way. If you are running Windows or Mac, simple download from website.
 - On your web host, run ` node twiml_server.js ` to start the server. Due to dependencies you need the entire project on your server.
 - On your local test machine, run ` node index.js ` to execute the call. Change time and target in index.js to suit your need.
+- Find in ` lib/db/db_config ` and replace your SID and token
 
 ## Why JavaScript
 
