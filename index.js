@@ -1,3 +1,6 @@
+/**
+ * index.js manages and calls service functions. Using Later.js scheduling tasks is very easily with English language syntax
+ */
 var call_service = require('./lib/call_service').makeCall;
 var later = require('later');
 
