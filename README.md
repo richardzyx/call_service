@@ -19,9 +19,6 @@ way. If you are running Windows or Mac, simple download from website.
 
 ## Why JavaScript
 
-- I am personally more fluent in JS, and JS is also built for web application thus allowing maximum functionality in this kind of 
-service. Python is also great on web with Flask and Django, but the importing of libraries and setting up will take longer time than
-building an node.js & express project. Adding a SQL database and a front-end management plugin is also a breeze when using JS suite, so
-I decided to go with JavaScript.
+- I am personally more fluent in JS, and JS is also built for web application thus allowing maximum functionality in this kind of service.
 
 [1]: https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions
